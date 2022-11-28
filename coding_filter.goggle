@@ -3,13 +3,13 @@
 ! public: false
 ! author: HamDogs
 
-$boost=3, site=github.com
-$boost=3, site=digitalocean.com
-$boost=2, site=stackoverflow.com
+$boost=3,site=github.com
+$boost=3,site=digitalocean.com
+$boost=2,site=stackoverflow.com
 
-$boost=2, site=npmjs.com
-$boost=2, site=realpython.com
-$boost=2, site=w3schools.com
-$boost=2, site=youtube.com
+$boost=2,site=npmjs.com
+$boost=2,site=realpython.com
+$boost=2,site=w3schools.com
+$boost=2,site=youtube.com
 
-$boost=1, site=nodesource.com
+$boost=1,site=nodesource.com
